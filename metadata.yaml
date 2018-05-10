@@ -1,10 +1,16 @@
 _repo: The-Sabbath-School-Index-Pointing-out-the-history-and-progress-of-Sunday-schools-with-approve__48100
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48100-h/images/cover.jpg
 creator:
   author:
     agent_name: Pardee, Richard Gay
     gutenberg_agent_id: '44622'
     url: http://www.gutenberg.org/2009/agents/44622
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48100#The-Sabbath-School-Index-Pointing-out-the-history-and-progress-of-Sunday-schools-with-approve_
 gutenberg_issued: '2015-01-27'
 gutenberg_type: Text
 identifiers:
